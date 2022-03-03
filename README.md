@@ -1,5 +1,5 @@
-# 第二階段：Java 企業產訓 SpringMVC-SpringData 篇<p />
-# SpringData JPA<p />
+# 第二階段：Java 企業產訓 SpringData 基礎篇<p />
+# SpringData JPA 基礎篇<p />
 測試通過版本：<br />
 &lt;spring.version>5.2.19.RELEASE&lt;/spring.version><br />
 &lt;spring.version>4.3.29.RELEASE&lt;/spring.version><p />
